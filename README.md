@@ -6,7 +6,7 @@ This repository, Comprehensive Data Science & AI Project Portfolio, is meticulou
  <h2><strong>Data Analysis</strong></h2>
 </div>
 
-#### **I. Data Cleaning Projects**
+#### **I. Data Pre-Processing Projects**
 |     Project Name      |               Task                |                                                                                                                                             Objective                                                                                                                                              |          Prominent Techniques / Tools          |
 |:---------------------:|:---------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------:|
 |   Airbnb data cleaning    |    data cleaning and preprocessing     |                                                        To load the dataset and clean the data set for performing exploratory data analysis on airbnb data                                                        |                   Basic data preprocessing                   |
